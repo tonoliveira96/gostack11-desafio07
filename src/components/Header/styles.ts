@@ -16,6 +16,10 @@ export const Container = styled.div<ContainerProps>`
     align-items: center;
     justify-content: space-between;
 
+    @media (max-width: 1060px) {
+      width: 760px;
+    }
+
     nav {
       a {
         color: #fff;

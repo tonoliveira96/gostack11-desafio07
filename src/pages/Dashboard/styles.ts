@@ -21,6 +21,14 @@ export const CardContainer = styled.section`
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 32px;
   margin-top: -150px;
+
+  @media (max-width: 760px) {
+    display: block;
+
+    div {
+      margin-top: 10px;
+    }
+  }
 `;
 
 export const Card = styled.div`
