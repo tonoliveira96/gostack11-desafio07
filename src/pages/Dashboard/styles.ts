@@ -45,6 +45,10 @@ export const Card = styled.div`
     font-weight: normal;
     line-height: 54px;
   }
+  &:hover {
+    padding-top: 10px;
+    transition: 0.2s;
+  }
 `;
 
 export const TableContainer = styled.section`
