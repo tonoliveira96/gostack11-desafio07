@@ -3,7 +3,7 @@
 </div>
  <h1 align="center">Gostack11 Desafio07</h1>
 
- <p>Desafio 06: Fundamentos ReactJS</p>
+ <p>Desafio 07: Fundamentos ReactJS</p>
  Nesse desafio, foi desenvolvido uma aplicação de gestão de transações, a GoFinances utilizando React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.  Essa aplicação que irá se conectar com backend do Desafio 06, e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 # Instalação
