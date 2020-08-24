@@ -16,7 +16,7 @@
 
 ## back-end
 
-1. Faça o clone dorepositório do back-end usando `git clone https://github.com/tonoliveira96/gostack11-desafio06.git`
+1. Faça o clone do repositório do back-end usando `git clone https://github.com/tonoliveira96/gostack11-desafio06.git`
 2. Entre na pasta do projeto usando `cd gostack11-desafio06`
 3. Rode `yarn` para instalar todas as dependência.
 4. Rode `yarn dev:server` para rodar o projeto.
